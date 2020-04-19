@@ -11,7 +11,11 @@
 
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KiZTnez"  ><a href="//imgur.com/a/KiZTnez">Confirmed COVID -19 cases in Chennai on 18/04/20</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZO9d8MT"  ><a href="//imgur.com/a/ZO9d8MT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<iframe width="964.5" height="735.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=966144813&amp;format=interactive"></iframe>
+
+<iframe width="1024" height="633" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=812439360&amp;format=interactive"></iframe>
 
 <p>Message on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
 </body>
