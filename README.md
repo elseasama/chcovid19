@@ -1,25 +1,31 @@
-
 <html>
-  
+<head>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+</head>  
 <body>
 
-<h1>Chennai containment zone</h1>
-Use + or - to zoom in and out respectively. 
-
-        <iframe class="render-viewer " src="https://render.githubusercontent.com/view/geojson?commit=d1f1d337d1554b7a1878d71d408ce3baed754913&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f656c73656173616d612f6368636f76696431392f643166316433333764313535346237613138373864373164343038636533626165643735343931332f636f6e7461696e6d656e747a6f6e652e67656f6a736f6e&amp;nwo=elseasama%2Fchcovid19&amp;path=containmentzone.geojson&amp;repository_id=253202620&amp;repository_type=Repository#dace31c5-bb6a-4bc4-aab2-acb406efddc8" width="800" height="800">
-          Viewer requires iframe.
-      </iframe>
-   <br>
-   <br>
-   <br>
-
-<h1>Chennai containment streets</h1>
-*work in progress*
+<h1>Chennai containment zones and containment streets map</h1>
 
 <iframe src="https://www.google.co.in/maps/d/u/0/embed?mid=1cB9aB7wFszdzKCsBR45bZE6A6gxs3hIz" width="800" height="800"></iframe>
 
+<p>Contaiment zone data from the GCC app</p> 
+<p>Containment street list</p>
+<a href="https://imgur.com/a/RNyuJiz">Source</a>
 
-
+</body>
 </body>
 </html>
 
