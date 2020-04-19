@@ -3,11 +3,11 @@
 </head>  
 <body>
 
-<h1>Chennai containment zones and streets map</h1>
+<p><h1>Chennai containment zones and streets map</h1></p>
 
 <iframe src="https://www.google.co.in/maps/d/u/0/embed?mid=1cB9aB7wFszdzKCsBR45bZE6A6gxs3hIz" width="800" height="800"></iframe>
 
-<p>Data sources:Contaiment zone data from the GCC app,<a href="https://imgur.com/a/RNyuJiz">Containment streets data list</a></p>
+<p>Data sources:Contaiment zone data from the GCC app, <a href="https://imgur.com/a/RNyuJiz">Containment streets data list</a></p>
 
 
 
