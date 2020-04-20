@@ -16,7 +16,7 @@
 
 
 <p><h1>Racing chart</h1></p>
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1894303" data-url="https://flo.uri.sh/visualisation/1894303/embed" data-height="645.5539341034496px" data-width="946.039093291274px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
 
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
@@ -30,7 +30,6 @@
 
 <p>Message on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
 
-<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
 </body>
 </html>
 
