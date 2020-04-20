@@ -16,7 +16,7 @@
 
 
 <p><h1>Interactive statistical data</h1></p>
-*hover over to see the values*
+*Click the data points to see further details*
 <iframe width="946.039093291274" height="645.5539341034496" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
 
 <iframe width="946.039093291274" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
