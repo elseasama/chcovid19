@@ -29,6 +29,8 @@
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
 
 <p>Message on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
+
+<iframe src='https://flo.uri.sh/visualisation/1894303/embed' frameborder='0' scrolling='no' style='width:946.039093291274;height:645.5539341034496px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'></div>
 </body>
 </html>
 
