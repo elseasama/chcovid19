@@ -11,8 +11,8 @@
 
 
 
-<p><h1>Confirmed cases on 19th April</h1></p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZO9d8MT"  ><a href="//imgur.com/a/ZO9d8MT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p><h1>Confirmed cases on 20th April</h1></p>
+<img src="https://github.com/elseasama/chcovid19/blob/master/20041.png" alt="Confirmed COVID-19 cases chennai on 20/04/20" style="width:800px;height:800px;border:0">
 
 <iframe width="970" height="680" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=966144813&amp;format=interactive"></iframe>
 
