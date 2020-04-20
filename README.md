@@ -31,7 +31,7 @@
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
 <p>Credits:<a href="https://t.me/Ankan_Plotter">R0 valus calculated by Ankan Das</a></p>
 
-<p>Message on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
+<p>Message me on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
 
 </body>
 </html>
