@@ -16,7 +16,7 @@
 
 <iframe width="1800" height="1200" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=966144813&amp;format=interactive"></iframe>
 
-<iframe width="1800" height="1200" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=812439360&amp;format=interactive"></iframe>
+<iframe width="1000" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=812439360&amp;format=interactive"></iframe>
 
 <iframe width="1800" height="1200" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=667771942&amp;format=interactive"></iframe>
 
