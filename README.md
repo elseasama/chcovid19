@@ -14,9 +14,12 @@
 <p><h1>Confirmed cases on 20th April</h1></p>
 <img src="https://i.imgur.com/bEG163Y.png" alt="Confirmed COVID-19 cases chennai on 20/04/20" style="width:800px;height:800px;border:0">
 
+
+<p><h1>Interactive statistical data</h1></p>
+
 <iframe width="940.41370629437" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
 
-<<iframe width="946.039093291274" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
+<iframe width="946.039093291274" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
 
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
 
