@@ -15,6 +15,9 @@
 <img src="https://i.imgur.com/bEG163Y.png" alt="Confirmed COVID-19 cases chennai on 20/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
 
 
+<p><h1>Racing chart</h1></p>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1894303" data-url="https://flo.uri.sh/visualisation/1894303/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
 <iframe width="946.039093291274" height="645.5539341034496" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
