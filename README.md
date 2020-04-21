@@ -3,7 +3,7 @@
 <title></title>
 <style>
 footer > * {
-	align-self: center;
+	align-self: left;
 	text-align: center;
 }
 .button {
@@ -121,6 +121,6 @@ a.button svg {
 
 <p>Message me on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
 
-</body>
-</html>
+</body></html>
+
 
