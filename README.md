@@ -11,8 +11,8 @@
 
 
 
-<p><h1>Confirmed cases on 20th April</h1></p>
-<img src="https://i.imgur.com/bEG163Y.png" alt="Confirmed COVID-19 cases chennai on 20/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
+<p><h1>Confirmed cases on 21th April</h1></p>
+<img src="https://i.postimg.cc/PfgWMBGB/21-04.png" alt="Confirmed COVID-19 cases chennai on 21/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
 
 
 <p><h1>Racing chart</h1></p>
