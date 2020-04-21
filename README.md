@@ -116,11 +116,12 @@ a.button svg {
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
 <p>Credits:<a href="https://t.me/Ankan_Plotter">R0 valus calculated by Ankan Das</a></p>
 
+<p>Message me on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
+
 
 <div id="root"><div class="App"><div class="Almighty-Router"><div class="switch-wrapper"><div style="opacity: 5;"><footer class="fadeInUp" style="animation-delay: 2s;"><a class="button excel" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNkGfVIjxzZ0qNceQZxSD0F4WAJYZ0yet2W4KFck5hwvBCkpbCqzgfvBqev6oZc9sF9W8Sze8BdEpf/pubhtml?" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" height="24"><ellipse cx="12" cy="5" rx="9" ry="3" /><path d="M 21 12 c 0 1.66 -4 3 -9 3 s -9 -1.34 -9 -3" /><path d="M 3 5 v 14 c 0 1.66 4 3 9 3 s 9 -1.34 9 -3 V 5" /></svg><span>Database</span></a></footer></div></div></div></div></div>
 
-<p>Message me on <a href="https://t.me/elseasama">telegram</a> for corrections or suggestions.</p>
-
-</body></html>
+</body>
+</html>
 
 
