@@ -96,9 +96,10 @@ a.button svg {
 
 
 
-<p><h1>Confirmed cases on 21st April</h1></p>
-<img src="https://imgpile.com/images/IAdUYN.png" alt="Confirmed COVID-19 cases chennai on 21/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
+<p><h1>Confirmed cases on 22ed April</h1></p>
+<img src="https://imgpile.com/images/IAxJcx.png" alt="Confirmed COVID-19 cases chennai on 22/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
 
+<a href="https://elseasama.github.io/chcovid19/archives.html">Archives</a></p>
 
 <p><h1>Racing chart</h1></p>
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
