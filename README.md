@@ -92,7 +92,7 @@ a.button svg {
 
 <iframe src="https://www.google.co.in/maps/d/u/0/embed?mid=1cB9aB7wFszdzKCsBR45bZE6A6gxs3hIz" width="946.039093291274" height="645.5539341034496"></iframe>
 
-<p>Data sources:Contaiment zone data from the GCC app, chek the database file at the bottom of the site</p>
+<p>Source:Check the database file at the bottom of the site</p>
 
 
 
