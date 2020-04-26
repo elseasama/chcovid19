@@ -87,7 +87,7 @@ a.button svg {
 </head>
  
 <body>
-
+<h1>SITE MOVED TO NEW <a href="https://elseasama.github.io/covid19chennai/">LOCATION</a></h1>
 <p><h1>Containment zones and streets map</h1></p>
 
 <iframe src="https://www.google.co.in/maps/d/u/0/embed?mid=1cB9aB7wFszdzKCsBR45bZE6A6gxs3hIz" width="946.039093291274" height="645.5539341034496"></iframe>
@@ -96,13 +96,6 @@ a.button svg {
 
 
 
-<p><h1>Confirmed cases on 23ed April</h1></p>
-<img src="https://imgpile.com/images/IAmrwS.png" alt="Confirmed COVID-19 cases chennai on 23/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
-
-<p><a href="https://elseasama.github.io/chcovid19/archives.html">Archives</a></p>
-
-<p><h1>Racing chart</h1></p>
-<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
 
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
