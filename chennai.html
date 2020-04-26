@@ -3,7 +3,8 @@
 <head>
 	<title>Chennai covid-19 map</title>
 	<script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
-	<script src="/data/Chennai.json"></script>
+	<script src="data/Chennai.json"></script>
+	<script src="data/chennai.json"></script>
 </head>
 <body>
 	<script>
@@ -27,12 +28,21 @@
         .projection( albersProjection );
 
     g.selectAll( "path" )
-        .data( neighborhoods_json.features )
+        .data( Chennai_json.features )
         .enter()
         .append( "path" )
         .attr( "fill", "#ccc" )
         .attr( "stroke", "#333")
         .attr( "d", geoPath );
+		var rodents = svg.append( "g" );
+
+chennai.selectAll( "path" )
+	.data( chennai_json.features )
+	.enter()
+	.append( "path" )
+	.attr( "fill", "#900" )
+	.attr( "stroke", "#999" )
+	.attr( "d", geoPath );
     </script>
 </body>
 </html>
